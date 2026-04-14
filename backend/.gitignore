@@ -1,0 +1,23 @@
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env.*
+venv/
+Gitdoc/
+
+# SQLite and local database files
+*.sqlite3
+processguide.db
+chroma_db/
+
+# FastAPI/Uvicorn temp files
+*.log
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+.DS_Store

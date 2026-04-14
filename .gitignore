@@ -1,0 +1,12 @@
+# Ambientes e Chaves
+.env
+__pycache__/
+venv/
+env/
+Gitdoc/
+# Dependências
+node_modules/
+
+# Banco de Dados
+processguide.db
+chroma_db/
