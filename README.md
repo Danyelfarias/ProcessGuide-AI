@@ -10,6 +10,11 @@ Este repositório contém um sistema de gestão de processos empresariais com fr
 - Histórico e controle de versões de processos
 - Exportação de processos para `.docx`
 
+
+
+<img width="2816" height="1536" alt="Projeto diagramas" src="https://github.com/user-attachments/assets/6b151b9f-737a-430a-a24a-35fcd6b038ab" />
+
+
 ---
 
 ## Arquitetura técnica
